@@ -3,8 +3,14 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmeedinaa&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmeedinaa" /> </p>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/isaac-m1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaac-m1" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/8141672" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8141672" height="25" width="25" /></a>
+<a href="https://instagram.com/isaac.meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isaac.meedinaa" height="25" width="25" /></a>
+<a href="https://dribbble.com/isaac_meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="isaac_meedinaa" height="25" width="25" /></a>
+<a href="https://medium.com/@isaacmeedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@isaacmeedinaa" height="25" width="25" /></a>
+</p>
 <br />
 
 - 🔭 I’m currently working on **Hustlr Cards, an application set out to help small business!**
@@ -20,17 +26,6 @@
 - 📫 How to reach me **isaac.meedinaa@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SuQTZATWjm2TOebPrsN7sJ93jfBotz5Q/view)
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isaac-m1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaac-m1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8141672" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8141672" height="30" width="40" /></a>
-<a href="https://instagram.com/isaac.meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isaac.meedinaa" height="30" width="40" /></a>
-<a href="https://dribbble.com/isaac_meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="isaac_meedinaa" height="30" width="40" /></a>
-<a href="https://medium.com/@isaacmeedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@isaacmeedinaa" height="30" width="40" /></a>
-</p>
 
 <br />
 
