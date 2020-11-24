@@ -1,16 +1,10 @@
-<h1 align="left">Hi 👋, I'm Isaac</h1>
-<h3 align="left">A passionate full-stack developer located at Chicago, IL 🌃. I am committed and passionate developer that enjoys creating amazing software 🔥.</h3>
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isaac-m1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaac-m1" height="25" width="25" /></a>
+<h1 align="left">Hi 👋, I'm Isaac <a href="https://linkedin.com/in/isaac-m1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaac-m1" height="25" width="25" /></a>
 <a href="https://stackoverflow.com/users/8141672" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8141672" height="25" width="25" /></a>
 <a href="https://instagram.com/isaac.meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isaac.meedinaa" height="25" width="25" /></a>
 <a href="https://dribbble.com/isaac_meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="isaac_meedinaa" height="25" width="25" /></a>
-<a href="https://medium.com/@isaacmeedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@isaacmeedinaa" height="25" width="25" /></a>
-</p>
+<a href="https://medium.com/@isaacmeedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@isaacmeedinaa" height="25" width="25" /></a></h1>
+<h3 align="left">A passionate full-stack developer located at Chicago, IL 🌃. I am committed and passionate developer that enjoys creating amazing software 🔥.</h3>
+
 <br />
 
 - 🔭 I’m currently working on **Hustlr Cards, an application set out to help small business!**
