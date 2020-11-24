@@ -3,11 +3,11 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/isaac-m1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaac-m1" height="15" width="15" /></a>
-<a href="https://stackoverflow.com/users/8141672" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8141672" height="15" width="15" /></a>
-<a href="https://instagram.com/isaac.meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isaac.meedinaa" height="15" width="15" /></a>
-<a href="https://dribbble.com/isaac_meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="isaac_meedinaa" height="15" width="15" /></a>
-<a href="https://medium.com/@isaacmeedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@isaacmeedinaa" height="15" width="15" /></a></p>
+<a href="https://linkedin.com/in/isaac-m1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isaac-m1" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/8141672" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8141672" height="20" width="20" /></a>
+<a href="https://instagram.com/isaac.meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isaac.meedinaa" height="20" width="20" /></a>
+<a href="https://dribbble.com/isaac_meedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="isaac_meedinaa" height="20" width="20" /></a>
+<a href="https://medium.com/@isaacmeedinaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@isaacmeedinaa" height="20" width="20" /></a></p>
 
 <br />
 
