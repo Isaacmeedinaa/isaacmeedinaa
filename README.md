@@ -30,11 +30,10 @@
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><b>Programming Languages:<b/></p>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></a> 
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="25" height="25"/></a>
 </p>
 
 <br />
