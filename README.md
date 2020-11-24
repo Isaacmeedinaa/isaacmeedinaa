@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Isaac</h1>
-<h3 align="left">A passionate full-stack developer located at Chicago, IL 🌃. I am committed and passionate developer that is ready to create amazing software 🔥.</h3>
+<h3 align="left">A passionate full-stack developer located at Chicago, IL 🌃. I am committed and passionate developer that enjoys creating amazing software 🔥.</h3>
 
 <br />
 
@@ -35,7 +35,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="30" height="30"/></a>
 </p>
+
 <br />
+
 <h3 align="left">Front End Development:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
@@ -44,6 +46,15 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/></a>
 <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="30" height="30"/></a>
+</p>
+
+<br />
+
+<h3 align="left">Back End Development:</h3>
+<p align="left">
+<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/></a>
+<a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a> 
 </p>
 
 <br />
