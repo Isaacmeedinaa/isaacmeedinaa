@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A passionate full-stack developer located at Chicago, IL 🌃. I am committed and passionate developer that is ready to create amazing software 🔥.</h3>
 
+<br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmeedinaa&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmeedinaa" /> </p>
 
-- 🔭 I’m currently working on **Hustlr Cards**
+<br />
+
+- 🔭 I’m currently working on **Hustlr Cards, an application set out to help small business!**
 
 - 👨‍💻 All of my projects are available at [https://www.isaacmedina.dev/#portfolio](https://www.isaacmedina.dev/#portfolio)
 
@@ -12,6 +16,8 @@
 - 📫 How to reach me **isaac.meedinaa@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SuQTZATWjm2TOebPrsN7sJ93jfBotz5Q/view](https://drive.google.com/file/d/1SuQTZATWjm2TOebPrsN7sJ93jfBotz5Q/view)
+
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
