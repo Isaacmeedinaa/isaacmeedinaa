@@ -9,13 +9,17 @@
 
 - 🔭 I’m currently working on **Hustlr Cards, an application set out to help small business!**
 
+- 🌱 I’m currently learning **Gatsby**
+
+- ⚡ Fun fact **I am a volunteer coding instructor at Code Nation!**
+
 - 👨‍💻 All of my projects are available at [https://www.isaacmedina.dev/#portfolio](https://www.isaacmedina.dev/#portfolio)
 
 - 💬 Ask me about **MERN Stack, React Native, ReactJS Hooks, & Ruby on Rails.**
 
 - 📫 How to reach me **isaac.meedinaa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SuQTZATWjm2TOebPrsN7sJ93jfBotz5Q/view](https://drive.google.com/file/d/1SuQTZATWjm2TOebPrsN7sJ93jfBotz5Q/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SuQTZATWjm2TOebPrsN7sJ93jfBotz5Q/view)
 
 <br />
 
@@ -36,7 +40,6 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="30" height="30"/></a>
 </p>
 
-<br />
 
 <h3 align="left">Front End Development:</h3>
 <p align="left">
@@ -48,7 +51,6 @@
 <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="30" height="30"/></a>
 </p>
 
-<br />
 
 <h3 align="left">Back End Development:</h3>
 <p align="left">
@@ -57,7 +59,6 @@
 <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a> 
 </p>
 
-<br />
 <h3 align="left">Databases:</h3>
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
@@ -65,7 +66,16 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
 </p>
 
+<h3 align="left">Tools and Software:</h3>
+<p align="left">
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
+</p>
+
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacmeedinaa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="isaacmeedinaa" /></p>
 
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacmeedinaa&show_icons=true&theme=dracula&locale=en" alt="isaacmeedinaa" /></p>
