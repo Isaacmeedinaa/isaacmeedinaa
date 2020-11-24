@@ -58,6 +58,14 @@
 </p>
 
 <br />
+<h3 align="left">Databases:</h3>
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+</p>
+
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacmeedinaa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="isaacmeedinaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacmeedinaa&show_icons=true&theme=dracula&locale=en" alt="isaacmeedinaa" /></p>
