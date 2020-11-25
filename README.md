@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Isaac</h1>
-<h3 align="left">A passionate full-stack developer located at Chicago, IL 🌃. I am committed and passionate developer that enjoys creating amazing software 🔥.</h3>
+<h3 align="left">A passionate full-stack developer located at Chicago, IL 🌃. I am a committed developer that enjoys creating amazing software 🔥.</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
