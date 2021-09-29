@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.isaacmedina.dev/](https://www.isaacmedina.dev/)
 
-- 💬 Ask me about **React, Javascript, Typescript, and MEAN Stack!**
+- 💬 Ask me about **React, Javascript, Typescript, and MERN Stack!**
 
 - 📫 How to reach me **isaac.meedinaa@gmail.com**
 
